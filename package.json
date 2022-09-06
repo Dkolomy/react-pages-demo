@@ -2,7 +2,7 @@
   "name": "react-pages-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Dkolomy/react-pages-demo",
+  "homepage": "https://dkolomy.github.io/react-pages-demo/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
